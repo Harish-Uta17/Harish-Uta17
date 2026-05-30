@@ -1,7 +1,9 @@
 <div align="center">
 
 # Harish Kumar Uta
-### AI Engineer · Data Scientist · Building intelligent systems that make decisions
+### AI Automation Engineer · Data Scientist · GenAI Developer
+
+*Building AI agents, automation systems, and data-driven solutions that transform business processes into intelligent workflows.*
 
 *`from raw data → actionable intelligence`*
 
@@ -16,7 +18,9 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI/ML engineer pursuing B.Tech in Artificial Intelligence at Parul Institute of Engineering & Technology (CGPA: **9.12**). I specialize in building **agentic AI systems**, **RAG pipelines**, and **end-to-end ML solutions** that turn raw data into real decisions.
+I'm a B.Tech Artificial Intelligence student at Parul Institute of Engineering & Technology (CGPA: 9.12), passionate about building AI-powered products, agentic systems, workflow automation, and machine learning solutions.
+
+My expertise spans Generative AI, Data Science, AI Automation, Machine Learning, Business Analytics, and Workflow Engineering. I enjoy transforming complex business problems into scalable AI solutions.
 
 - 🔭 **Currently building:** Agentic AI systems, RAG pipelines & predictive ML models
 - 🌱 **Currently learning:** LangChain, Multi-Agent Systems & Advanced Deep Learning
@@ -26,6 +30,15 @@ I'm an AI/ML engineer pursuing B.Tech in Artificial Intelligence at Parul Instit
 - ⚡ **Fun fact:** Scored 100% in High School & 98% in Intermediate — consistency is my superpower
 
 ---
+
+## 📈 Highlights
+
+- 🎓 B.Tech Artificial Intelligence | CGPA: 9.12
+- 💼 4 Internships in Data Science, Machine Learning & Business Analytics
+- 🤖 10+ AI & Automation Projects
+- 📊 Strong foundation in Data Analytics & Business Intelligence
+- ☁️ Experience with Cloud, APIs, and Workflow Automation
+- 🚀 Actively building Agentic AI Systems & RAG Applications
 
 ## 🛠️ Skills & Tech Stack
 
@@ -75,12 +88,14 @@ I'm an AI/ML engineer pursuing B.Tech in Artificial Intelligence at Parul Instit
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **Agentic RAG Pipeline** | Multi-agent system with retrieval-augmented generation for enterprise document Q&A | LangChain · FAISS · OpenAI |
-| 📈 **Predictive ML Dashboard** | End-to-end ML pipeline with automated feature engineering and live BI dashboard | Scikit-learn · Tableau · AWS |
-| 💬 **NLP Sentiment Analyzer** | Fine-tuned transformer model for real-time sentiment analysis on business reviews | PyTorch · HuggingFace · Docker |
-| 📊 **Business Intelligence Suite** | Automated data pipeline driving weekly executive decisions via KPI dashboards | Power BI · SQL · Python |
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🤖 AI Learning Path Generator | Generates personalized learning roadmaps, creates Google Docs, schedules study sessions in Google Calendar, and fetches resources automatically. | n8n · Gemini · Google Docs API · Google Calendar API · SerpAPI |
+| 📰 AI News Summarization Agent | Collects AI & Tech news from RSS feeds, summarizes using Gemini AI, and delivers professional newsletters via Gmail. | n8n · Gemini · Gmail API · RSS Feeds |
+| 📢 AI Social Automation Agent | Generates and publishes LinkedIn content automatically using Google Sheets as the content source. | n8n · Gemini · Google Sheets API · LinkedIn API |
+| 🎙️ AI Podcast Generator | Converts user topics into podcast scripts and generates realistic voice audio using Murf AI. | n8n · Gemini · Murf AI · REST APIs |
+| 📊 Sales Performance Analytics Dashboard | Interactive business dashboard analyzing 50,000+ sales records with automated KPI reporting. | Tableau · SQL · Excel |
+| 📈 Customer Churn Prediction | Machine learning model for predicting customer attrition and improving retention strategies. | Python · Scikit-Learn · XGBoost |
 
 ---
 
@@ -120,7 +135,14 @@ I'm an AI/ML engineer pursuing B.Tech in Artificial Intelligence at Parul Instit
 
 <div align="center">
 
-**Open to full-time roles in AI Engineering · Data Science · Gen AI · Analytics**
+Open to opportunities in:
+
+✅ AI Engineering
+✅ Data Science
+✅ Generative AI
+✅ AI Automation
+✅ Analytics Engineering
+✅ Machine Learning Engineering
 
 📩 utaharish96@gmail.com
 
