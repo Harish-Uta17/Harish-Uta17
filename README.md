@@ -129,7 +129,15 @@ My expertise spans Generative AI, Data Science, AI Automation, Machine Learning,
 </div>
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Harish-Uta17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-Uta17&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Uta17&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
