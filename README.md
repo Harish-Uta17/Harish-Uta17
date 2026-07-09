@@ -3,7 +3,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,5,24,30&text=Harish%20Kumar%20Uta&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Data%20Scientist%20•%20Data%20Analyst&descAlignY=62&descSize=20)
 
 # 👋 Hi, I'm Harish Kumar Uta
-### AI Engineer • Backend Developer • Data Analyst
+
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Building+AI+Agents;Automating+Workflows;Transforming+Raw+Data;Deploying+Intelligent+Systems" alt="Typing Animation" />
