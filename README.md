@@ -51,10 +51,10 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Harish-Uta17&show_icons=true&theme=tokyonight&hide_border=true" alt="Harish's GitHub Stats" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-Uta17&theme=tokyonight" alt="Harish's GitHub Stats" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Uta17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harish-Uta17&theme=tokyonight" alt="Top Languages" width="100%"/>
     </td>
   </tr>
   <tr>
