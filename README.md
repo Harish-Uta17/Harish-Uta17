@@ -1,6 +1,9 @@
 <div align="center">
 
-# Harish Kumar Uta
+<h1>Harish Kumar Uta</h1>
+
+![Harish Kumar Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30&height=260&section=header&text=Harish%20Kumar%20Uta&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=AI%20Automation%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Developer&descSize=16&descAlignY=65)
+
 ### AI Automation Engineer · Data Scientist · GenAI Developer
 
 *Building AI agents, automation systems, and data-driven solutions that transform business processes into intelligent workflows.*
@@ -47,8 +50,8 @@ My expertise spans Generative AI, Data Science, AI Automation, Machine Learning,
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B48FF?style=for-the-badge&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-FF6F00?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-2D6A4F?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-343A40?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-343A40?style=for-the-badge&logo=promptengineering&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white)
 
 ### 🧠 Machine Learning & Deep Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -56,7 +59,7 @@ My expertise spans Generative AI, Data Science, AI Automation, Machine Learning,
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 
 ### 📊 Data Analytics & Visualization
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -116,18 +119,24 @@ My expertise spans Generative AI, Data Science, AI Automation, Machine Learning,
 - Delivered interactive Power BI / Tableau dashboards for executive stakeholders
 - Applied NLP and deep learning to real-world business problems
 
+---
 
+## 📩 Contact & Opportunities
 
 Open to opportunities in:
+- [x] AI Engineering
+- [x] Data Science
+- [x] Generative AI
+- [x] AI Automation
+- [x] Analytics Engineering
+- [x] Machine Learning Engineering
 
-✅ AI Engineering
-✅ Data Science
-✅ Generative AI
-✅ AI Automation
-✅ Analytics Engineering
-✅ Machine Learning Engineering
+📧 Email: [utaharish96@gmail.com](mailto:utaharish96@gmail.com)
 
-📩 utaharish96@gmail.com
+---
 
-[![](https://visitcount.itsvg.in/api?id=Harish-Uta17&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
+[![Profile Views](https://visitcount.itsvg.in/api?id=Harish-Uta17&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
