@@ -68,6 +68,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Harish-Uta17/Harish-Uta17/output/github-contribution-grid-snake.svg">
+</p>
+
 ## 👨‍💻 About Me
 
 * 🎓 **Academic Path:** Final Year B.Tech Artificial Intelligence student at Parul Institute of Engineering & Technology.
