@@ -1,10 +1,8 @@
-<div align="center">
 
-<h1>Harish Kumar Uta</h1>
 
 ![Harish Kumar Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30&height=260&section=header&text=Harish%20Kumar%20Uta&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=AI%20Automation%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Developer&descSize=16&descAlignY=65)
 
-### AI Automation Engineer · Data Scientist · GenAI Developer
+### AI Engineer | Backend Developer | Data Analyst
 
 *Building AI agents, automation systems, and data-driven solutions that transform business processes into intelligent workflows.*
 
