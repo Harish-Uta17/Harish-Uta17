@@ -1,6 +1,6 @@
 <div align="center">
   
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,5,24,30&text=Harish%20Kumar%20Uta&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Backend%20Developer%20•%20Data%20Analyst&descAlignY=62&descSize=20)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,5,24,30&text=Harish%20Kumar%20Uta&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Data%20Scientist%20•%20Data%20Analyst&descAlignY=62&descSize=20)
 
 # 👋 Hi, I'm Harish Kumar Uta
 ### AI Engineer • Backend Developer • Data Analyst
