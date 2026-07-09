@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-![Harish Kumar Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=37,99,235,124,58,237&height=280&section=header&text=Harish%20Kumar%20Uta&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=AI%20Automation%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Developer&descSize=16&descAlignY=65)
+<a href="https://www.canva.com/d/7OtdTlPjk9w32_G" target="_blank">
+  <img src="https://design.canva.ai/xfMXEbCynx84Pe2" alt="Harish Kumar Uta Tech Banner" width="100%" />
+</a>
 
 # 👋 Hi, I'm Harish Kumar Uta
 ### AI Engineer • Backend Developer • Data Analyst
