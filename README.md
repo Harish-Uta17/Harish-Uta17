@@ -4,14 +4,12 @@
 
 # 👋 Hi, I'm Harish Kumar Uta
 
-<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Building+AI+Agents;Automating+Workflows;Transforming+Raw+Data;Deploying+Intelligent+Systems" alt="Typing Animation" />
 
 <p align="center">
   <em>Building AI-powered applications, scalable backend systems, and data-driven solutions that transform business processes into intelligent workflows.</em>
 </p>
 
-<!-- PREMIUM SOCIAL BUTTONS -->
 <a href="https://www.linkedin.com/in/utaharishkumar/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -122,52 +120,5 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Learning Path Generator
-* **Description:** Generates structured, personalized learning roadmaps, populates dedicated Google Docs, schedules custom blocks in Google Calendar, and orchestrates live resource retrieval.
-* **Architecture:** `n8n` • `Gemini AI` • `Google Docs API` • `Google Calendar API` • `SerpAPI`
-* [📂 Source Repository](https://github.com/Harish-Uta17)
-
-### 📰 AI News Summarization Agent
-* **Description:** Monitors and filters target tech RSS feeds, aggregates sector updates, uses generative text models for crisp summarization, and dispatches compiled newsletters via Gmail automatically.
-* **Architecture:** `n8n` • `Gemini AI` • `Gmail API` • `RSS Feeds`
-* [📂 Source Repository](https://github.com/Harish-Uta17)
-
-### 📢 AI Social Automation Agent
-* **Description:** An autonomous scheduler and creator that structures raw, spreadsheet-managed insights into curated text-driven visual updates for distribution channels.
-* **Architecture:** `n8n` • `Gemini AI` • `Google Sheets API` • `LinkedIn API`
-* [📂 Source Repository](https://github.com/Harish-Uta17)
-
-### 📊 Sales Performance Analytics Dashboard
-* **Description:** Enterprise-level interactive business intelligence pipeline parsing over 50,000 corporate transactional nodes for high-level KPI presentation.
-* **Architecture:** `Tableau` • `SQL` • `Microsoft Excel`
-* [📂 Source Repository](https://github.com/Harish-Uta17)
-
-### 📈 Customer Churn Prediction System
-* **Description:** High-impact predictive classification pipeline helping minimize user attrition through algorithmic trait segmentation.
-* **Architecture:** `Python` • `Scikit-Learn` • `XGBoost`
-* [📂 Source Repository](https://github.com/Harish-Uta17)
-
----
-
-## 🏆 Certifications & Achievements
-
-* 🏅 **Oracle Certified Professional** — Data Science
-* 🏅 **IBM Data Science** — Professional Certificate
-* 🏅 **HackerRank SQL** — Advanced Certified
-* 🤖 Deployed multiple end-to-end production-grade AI & Automation architectures.
-
----
-
-## 🌱 Current Exploring Focus
-
-* **Agentic AI Frameworks & LangGraph** for complex stateful orchestration.
-* **Productionalizing Large Language Models (LLMOps)** at scale.
-* **Advanced Analytics Engineering** pipelines to bridge backend storage with visualization layers.
-
----
-
-<div align="center">
-
-### Turning ideas into intelligent software through AI, backend engineering, and data.
-
-</div>
+### 🩺 AI-Powered HCP CRM Interaction Assistant
+* **Description:** An AI-first Healthcare CRM Assistant enabling natural language logs. Integrates a stateful LangGraph workflow running across an array of specialized tools to automatically handle data field extraction, contextual field edits, missing data checks
