@@ -116,11 +116,16 @@
 ![Power BI](https://img.shields.io/badge/Power__BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&dockerColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🩺 AI-Powered HCP CRM Interaction Assistant
+* **Description:** An AI-first Healthcare CRM suite that automates the recording of HCP interactions entirely via natural language processing. Integrates a stateful LangGraph workflow running across five functional tools to automatically handle field extraction, contextual field edits, field validations, and automated summary tracking.
+* **Architecture:** `React` • `FastAPI` • `LangGraph` • `SQLite` • `Google Gemini / Groq`
+* [📂 Source Repository](https://github.com/Harish-Uta17/smart-hcp-logger)
 
 ### 🤖 AI Learning Path Generator
 * **Description:** Generates structured, personalized learning roadmaps, populates dedicated Google Docs, schedules custom blocks in Google Calendar, and orchestrates live resource retrieval.
