@@ -77,7 +77,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 **Academic Path:** Final Year B.Tech Artificial Intelligence student at Parul Institute of Engineering & Technology.
-* 🤖 **Core Focus:** Building multi-agent systems, engineering robust RAG pipelines, and constructing predictive machine learning models.
+* 🤖 **Core Focus:** Building multi-agent systems, engineering robust RAG pipelines, fine-tuning Transformers, and constructing predictive Data Science models.
 * 💼 **Experience Background:** 4 completed internships across Data Science, Machine Learning, and Business Analytics translating data into operational strategies.
 * ⚡ **Fun Fact:** Scored 100% in High School & 98% in Intermediate — consistency is my superpower.
 
@@ -85,7 +85,9 @@
 
 ## 🛠️ Tech Stack & Ecosystem
 
-### 🤖 Generative AI & Agentic Systems
+### 🤖 Generative AI, Transformers & Agentic Systems
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B48FF?style=for-the-badge&logo=googledrive&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
@@ -93,28 +95,34 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt__Engineering-343A40?style=for-the-badge&logo=anthropic&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=googlebard&logoColor=white)
 
-### 🧠 Machine Learning & Deep Learning
+### 🧠 Data Science, Machine Learning & Deep Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Data Science](https://img.shields.io/badge/Data__Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep__Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit__learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=eclipseche&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-d9ead3?style=for-the-badge&logo=mlflow&logoColor=blue)
 
-### ⚙️ AI Automation & Workflow
+### 📊 Exploratory Data Analysis & Statistical Modeling
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power__BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### ⚙️ AI Automation & Infrastructure
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST__APIs-005C97?style=for-the-badge&logo=postman&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📊 Data Analytics & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power__BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&dockerColor=white)
 
@@ -166,6 +174,7 @@
 ## 🌱 Current Exploring Focus
 
 * **Agentic AI Frameworks & LangGraph** for complex stateful orchestration.
+* **Transformer Architectures & Fine-Tuning (PeFT/LoRA)** for domain-specific LLMs.
 * **Productionalizing Large Language Models (LLMOps)** at scale.
 * **Advanced Analytics Engineering** pipelines to bridge backend storage with visualization layers.
 
