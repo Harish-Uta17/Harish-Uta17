@@ -43,20 +43,19 @@
 <!-- ============================= ABOUT ME ============================= -->
 ## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/Harish-Uta17/Harish-Uta17/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
 ```python
 class HarishKumarUta:
     def __init__(self):
-        self.role      = "AI Engineer · Data Scientist"
-        self.education = "B.Tech Artificial Intelligence @ Parul IET"
-        self.focus     = ["Multi-Agent Systems", "RAG Pipelines",
-                          "Fine-Tuning Transformers", "Predictive ML"]
-        self.experience = "4 internships · DS / ML / Business Analytics"
-        self.fun_fact  = "Scored 100% in High School & 98% in Intermediate"
+        self.role   = "AI Engineer · Data Scientist"
+        self.study  = "B.Tech AI @ Parul IET"
+        self.focus  = ["Agents", "RAG", "Fine-Tuning", "ML"]
+        self.exp    = "4 internships · DS / ML / Analytics"
+        self.fact   = "100% High School · 98% Intermediate"
 
-    def current_goal(self):
-        return "Shipping production-grade, agentic AI systems 🚀"
+    def goal(self):
+        return "Ship production-grade agentic AI 🚀"
 ```
 
 - 🎓 **Final-year B.Tech (Artificial Intelligence)** — Parul Institute of Engineering & Technology
