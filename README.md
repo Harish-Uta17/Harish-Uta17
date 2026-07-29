@@ -120,8 +120,8 @@ class HarishKumarUta:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harish-Uta17&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=FE428E&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0D1117" alt="stats" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Uta17&layout=compact&hide_border=true&theme=radical&title_color=FE428E&text_color=c9d1d9&bg_color=0D1117" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-one-ivory-20.vercel.app/api?username=Harish-Uta17&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=FE428E&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0D1117" alt="stats" />
+<img width="40%" src="https://github-readme-stats-one-ivory-20.vercel.app/api/top-langs/?username=Harish-Uta17&layout=compact&hide_border=true&theme=radical&title_color=FE428E&text_color=c9d1d9&bg_color=0D1117" alt="top langs" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Harish-Uta17&hide_border=true&theme=radical&background=0D1117&ring=FE428E&fire=A9FEF7&currStreakLabel=FE428E" alt="streak" />
 
