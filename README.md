@@ -127,8 +127,6 @@ class HarishKumarUta:
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-Uta17&bg_color=0D1117&color=FE428E&line=A9FEF7&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harish-Uta17&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
 </div>
 
 <!-- ============================= FEATURED PROJECTS ============================= -->
